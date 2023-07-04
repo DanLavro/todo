@@ -1,6 +1,6 @@
 {
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", "tests/**/*.ts", "tests/**/*.tsx"],
-  "files": ["src/main.ts", "src/store/tasksStore.ts"],
+  "files": ["src/main.ts"],
   "references": [
     {
       "path": "./tsconfig.node.json"
