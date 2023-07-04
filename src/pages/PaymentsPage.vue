@@ -1,12 +1,12 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
-// import PaymentList from '@/components/PaymentList.vue'
+import PaymentList from '@/components/PaymentList.vue'
 
-// export default defineComponent({
-//   components: {
-//     PaymentList
-//   }
-// })
+export default defineComponent({
+  components: {
+    PaymentList
+  }
+})
 </script>
 
 <template>
